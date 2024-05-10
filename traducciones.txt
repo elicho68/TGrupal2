@@ -1,0 +1,1 @@
+if si es una estructura de control que valida una condicion y nos permite determinar que acciones tomar dada o no cierta condicion.
