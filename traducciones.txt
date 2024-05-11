@@ -1,1 +1,61 @@
-if si es una estructura de control que valida una condicion y nos permite determinar que acciones tomar dada o no cierta condicion.
+if si      es una estructura de control que valida una condicion y nos permite determinar que acciones tomar dada o no cierta condicion.
+asm Ensamblador     Se usa para insertar c¢digo ensamblador dentro de programas de C o C++
+auto Autom tico     Especifica que el tipo de una variable ser  autom ticamente deducido por el compilador.
+bool Booleano     Tipo de datos que representa un valor de verdad, puede ser verdadero (true) o falso (false).
+break Interrumpir     Se utiliza para salir de un bucle (for, while o do-while) o de una instrucci¢n switch.
+case Caso    Define una opci¢n en una declaraci¢n switch.
+catch Capturar     Se utiliza para manejar excepciones en C++
+char Car cter    Tipo de datos que representa un solo car cter.
+class Clase    Se utiliza para definir una clase en C++.
+const Constante    Se utiliza para definir variables que no pueden ser modificadas.
+const_cast Convertirconstante   Se utiliza para eliminar el modificador const de un objeto
+continue Continuar   Se utiliza para saltar a la siguiente iteraci¢n de un bucle.
+default Por,defecto   Define una acci¢n por defecto en una declaraci¢n switch.
+delete Borrar   Se utiliza para liberar la memoria asignada din micamente a un objeto.
+do Hacer   Inicia un bucle do-while.
+double Doble,precisi¢n   Tipo de datos que representa n£meros de punto flotante de doble precisi¢n.
+dynamic_cast Convertir-din mico   Se utiliza para realizar conversiones seguras de tipos en tiempo de ejecuci¢n.
+else Sino   Define un bloque de c¢digo que se ejecuta si la condici¢n de un if es falsa.
+enum Enumeraci¢n   Se utiliza para definir un tipo de datos enumerado.
+explicit Expl¡cito    Se utiliza para evitar conversiones impl¡citas entre tipos de datos.
+extern Se   utiliza para declarar variables o funciones que est n definidas en otro lugar.
+false Falso   Valor booleano que representa "falso".
+float Flotante   Tipo de datos que representa n£meros de punto flotante de precisi¢n simple.
+for Para   inicia un bucle for.
+friend Amigo   Se utiliza para otorgar acceso privilegiado a una funci¢n o clase externa.
+goto Ir-a  Se utiliza para transferir el control a una etiqueta espec¡fica dentro de un programa.
+if Si  Se utiliza para ejecutar un bloque de c¢digo si se cumple una condici¢n.
+inline En-l¡nea   Se utiliza para indicar al compilador que una funci¢n debe ser "inlined" (expandida en l¡nea).
+int Entero  Tipo de datos que representa n£meros enteros.
+long Largo  Tipo de datos que representa n£meros enteros largos.
+mutable Mutable  Se utiliza para especificar que un miembro de una clase puede ser modificado
+namespace Espacio_de_nombres  Se utiliza para evitar conflictos de nombres al agrupar elementos relacionados.
+new Nuevo  Se utiliza para asignar memoria din micamente en tiempo de ejecuci¢n.
+operator Operador  Define una sobrecarga de operador.
+private Privado  Especifica que los miembros de una clase son accesibles solo dentro de la misma clase.
+protected Protegido  Especifica que los miembros de una clase son accesibles dentro de la misma clase y sus subclases.
+public P£blico  Especifica que los miembros de una clase son accesibles desde cualquier parte del c¢digo.
+register Registro  Se utiliza para sugerirle al compilador que almacene una variable en un registro de la CPU para acceso r pido.
+reinterpret_cast Convertir_reinterpretando  Se utiliza para realizar conversiones entre punteros a tipos de datos incompatibles.
+return Retorno  Se utiliza para devolver un valor de una funci¢n.
+short Corto  Tipo de datos que representa n£meros enteros cortos.
+signed Con_signo  Se utiliza para declarar que un tipo de datos puede representar valores negativos y positivos.
+sizeof Tama¤o_de  Operador que devuelve el tama¤o en bytes de un tipo de datos o una variable.
+static Est tico  Se utiliza para declarar variables o funciones que mantienen su valor entre llamadas a la funci¢n.
+static_cast Convertir_est tico  Se utiliza para realizar conversiones de tipos de datos entre tipos compatibles.
+struct Estructura  Se utiliza para definir una estructura de datos en C++.
+switch Conmutar   Se utiliza para evaluar una expresi¢n y ejecutar el bloque de c¢digo asociado a un caso espec¡fico.
+template Plantilla  Se utiliza para definir funciones o clases gen‚ricas.
+this Este  Puntero impl¡cito que apunta al objeto actual dentro de una clase
+throw Lanzar  Se utiliza para lanzar una excepci¢n.
+true Verdadero  Valor booleano que representa "verdadero".
+try Intentar  Se utiliza para probar un bloque de c¢digo en busca de excepciones.
+typedef Tipo_definido  Se utiliza para definir un nuevo nombre para un tipo de datos existente.
+typeid Tipo_de_identificaci¢n Operador que devuelve informaci¢n sobre el tipo de un objeto.
+typename Tipo_de_nombre Se utiliza para especificar que un identificador es un nombre de tipo.
+union Uni¢n Se utiliza para definir una estructura que permite almacenar diferentes tipos de datos en la misma ubicaci¢n de memoria.
+unsigned Sin_signo Se utiliza para declarar que un tipo de datos solo puede representar valores positivos.
+using Usando Se utiliza para importar un espacio de nombres o una funci¢n espec¡fica en el  mbito actual.
+virtual Virtual Se utiliza para definir funciones que pueden ser sobrescritas por las clases derivadas.
+void Vac¡o Tipo de datos que indica la ausencia de tipo.
+volatile Vol til Se utiliza para indicarle al compilador que una variable puede ser
